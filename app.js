@@ -1,6 +1,6 @@
 // create a html and a JS file
 // Bash:: git init
-// add your user anme and email to git :  Bash:: git config --global user.name 'Brad Traversy'
+// add your user anme and email to git :  Bash:: git config --global user.name 'Yasen'
 // Bash:: git config --global user.email 'yasen@gmail.com' 
 // add html file to git repository:   git add index.html 
 // remove the tracked file:  Bash:: git rm --cashed 'index.html'
