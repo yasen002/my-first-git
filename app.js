@@ -51,3 +51,5 @@ console.logI('I am trying to know how commit works.')
 // 1.git fetch origin
 // git fetch gives you access to the entire branch structure of another repository.
 // 2.To see what commits have been added to the upstream master, you can run a git log using origin/master as a filter:  
+
+//create gitignore file:  touch .gitignore
